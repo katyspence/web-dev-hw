@@ -1,0 +1,10 @@
+1. Data is information, which is packaged for travel in bytes.
+
+2. Each machine connected to the internet has an IP (Internet Protocol) address which identifies it to rest of the internet. It's usually a series of numbers connected by dots. The DNS (Domain Name System) translates domain names on the internet into IP addresses. This is important, because the internet is essentially one machine requesting or send info to another machine. The DNS helps one machine find another by locating the IP address associated with a domain name.
+
+3. Cookies are messages given to a browser, like Google Chrome, by a web server. They essentially remember information about users and can save site login information or customize web pages. Cookies are saved on your personal computer, since servers don't have memory.
+
+4. The three main parts of a URL are:
+  - the protocol, which declares how the web browser should communicate with a server when send or receiving information for a website, document, etc. This is the http part, and you'll sometimes see an "s" which indicates that the page is secure and safer for inputting sensitive information.
+  - the domain name is a unique, identifying name that is attached to only one website.
+  - the path refers to a file or directory on the server in question.
